@@ -1,6 +1,6 @@
 # Rosping
 
-ROS package containing a node (rosping) publishing delay or ping to a certain IP address.
+ROS package containing a node (rosping) publishing ping or delay in ms to a certain IP address.
 
 *This package is a fork of [jsk_3rdparty](https://github.com/jsk-ros-pkg/jsk_3rdparty/tree/master/rosping) package*
 
