@@ -8,7 +8,7 @@ ROS package containing a node (rosping) publishing delay or ping to a certain IP
 
 Clone this repository:
 ```bash
-clone https://github.com/julesberhault/mirador_driver.git
+clone https://github.com/julesberhault/rosping.git
 ```
 
 ## Runing
