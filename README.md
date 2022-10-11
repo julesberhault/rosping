@@ -15,6 +15,6 @@ clone https://github.com/julesberhault/rosping.git
 
 Run the node with rosrun:
 ```bash
-rosrun rosping rosping HOSTNAME
+rosrun rosping rosping <HOSTNAME>
 ```
 with **HOSTNAME** the IP address or hostname you wish to ping
