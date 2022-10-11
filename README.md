@@ -8,7 +8,7 @@ ROS package containing a node (rosping) publishing ping or delay in ms to a cert
 
 Clone this repository:
 ```bash
-clone https://github.com/julesberhault/rosping.git
+git clone https://github.com/julesberhault/rosping.git
 ```
 
 ## Runing
