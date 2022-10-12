@@ -11,7 +11,7 @@ Clone this repository:
 git clone https://github.com/julesberhault/rosping.git
 ```
 
-### Compiling
+## Compiling
 
 :warning: Compile package as "**sudo**"
 ```bash
