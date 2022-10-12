@@ -13,7 +13,7 @@ git clone https://github.com/julesberhault/rosping.git
 
 ### Compiling
 
-/!\ Compale package as "**sudo**"
+:warning: Compile package as "**sudo**"
 ```bash
 sudo catkin_make rosping
 ```
