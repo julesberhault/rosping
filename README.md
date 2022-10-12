@@ -11,6 +11,13 @@ Clone this repository:
 git clone https://github.com/julesberhault/rosping.git
 ```
 
+### Compiling
+
+/!\ Compale package as "**sudo**"
+```bash
+sudo catkin_make rosping
+```
+
 ## Runing
 
 Run the node with rosrun:
