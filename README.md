@@ -18,7 +18,8 @@ Compile package
 catkin_make rosping
 ```
 
-Optional :warning: Compile package as "sudo"
+### Optional:
+:warning: Compile package as "sudo"
 ```bash
 sudo catkin_make rosping
 ```
